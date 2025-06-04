@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharun kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and a Data anaylist from India</h3>
 
 - 🌱 I’m currently learning **java script, angular js, perl, express js, Python
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github profile ,](github profile ,)
 
-- 💬 Ask me about **java script, html, css**
+- 💬 Ask me about **JavaScript, HTML, css , Python , Machine learning**
 
 - 📫 How to reach me **gunapatitharun123@gmail.com**
 
